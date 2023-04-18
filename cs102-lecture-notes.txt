@@ -1,0 +1,6 @@
+git clone :- this command is for cloning file and packages into the machine from server 
+git status :- this command used to see the status of the changes made by user that clone the file from git hub
+git diff :- this coomand is used to see the what changes made by you on that repositore is not changed
+git staged :- this command is used to staged the changes
+git commmit :- this command is used to commit message on the git server
+git init :- that command install the work area on machine
