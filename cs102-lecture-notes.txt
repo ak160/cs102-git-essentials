@@ -3,4 +3,4 @@ git status :- this command used to see the status of the changes made by user th
 git diff :- this coomand is used to see the what changes made by you on that repositore is not changed
 git staged :- this command is used to staged the changes
 git commmit :- this command is used to commit message on the git server
-git init :- that command install the work area on machine
+git init :- that command install the work area on machine .
