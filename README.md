@@ -11,3 +11,10 @@ this repository is for education purpose only it content only lab files no harm 
 - learn proxychains.
 - learn cs tool.
 - learn markdown language.
+- intermediate python
+- intermediate shell scripting
+- intermediate c++
+- black hat hacking with python
+- Ethical hacking
+- Networking
+- secure scripting
