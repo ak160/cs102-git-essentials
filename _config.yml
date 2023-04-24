@@ -1,3 +1,4 @@
 # this is comment 
 *   @ak160
 theme: minima .
+remote_theme: minima .
