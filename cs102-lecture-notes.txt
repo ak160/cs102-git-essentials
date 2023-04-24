@@ -4,3 +4,26 @@ git diff :- this coomand is used to see the what changes made by you on that rep
 git staged :- this command is used to staged the changes
 git commmit :- this command is used to commit message on the git server
 git init :- that command install the work area on machine .
+
+
+						*/ summary /*
+
+today lab on tuesday we review the git command and learn the new command that are -
+git diff :- this command used to show the changes that are not comited to the server or not staged yet to the server
+git staged that command used to stages the changes made by the git cloner
+git init that command basicaly do the install a local directory that is active that is avialable for make changes
+git log --pretty="%h - %s" --author='Junio C Hamano' --since="2008-10-01" \
+--before="2008-11-01" --no-merges -- t/
+5610e3b - Fix testcase failure when extended attributes are in use
+acd3b9e - Enhance hold_lock_file_for_{update,append}() API
+f563754 - demonstrate breakage of detached checkout with symbolic link HEAD
+d1a43f2 - reset --hard/read-tree --reset -u: remove unmerged new paths
+51a94af - Fix "checkout --track -b newbranch" on detached HEADPreventing the display of merge commits
+
+Depending on the workflow used in your repository, it’s possible that a sizable
+percentage of the commits in your log history are just merge commits, which
+typically aren’t very informative. To prevent the display of merge commits
+cluttering up your log history, simply add the log
+b0ad11e - pull: allow "git pull origin $something:$current_branch" into an unborn
+branch option --not --merged
+
